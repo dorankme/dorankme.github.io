@@ -1,0 +1,8 @@
+User-agent: *
+Disallow: /tags/
+Allow: /archives/
+Allow: /categories/
+Allow: /about/
+
+Sitemap: http://www.dorank.me/sitemap.xml
+Sitemap: http://www.dorank.me/baidusitemap.xml
