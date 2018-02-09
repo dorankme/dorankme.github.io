@@ -2,35 +2,49 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://www.dorank.me/blog/tags/index.html</loc>
+    <loc>http://www.dorank.me.cdn.dnsv1.com/blog/qcloud_cdn.html</loc>
+    
+    <lastmod>2018-02-09T02:54:03.847Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://www.dorank.me.cdn.dnsv1.com/blog/404.html</loc>
+    
+    <lastmod>2018-02-08T23:35:11.444Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://www.dorank.me.cdn.dnsv1.com/blog/tags/index.html</loc>
     
     <lastmod>2018-02-08T23:14:41.861Z</lastmod>
     
   </url>
   
   <url>
-    <loc>http://www.dorank.me/blog/categories/index.html</loc>
+    <loc>http://www.dorank.me.cdn.dnsv1.com/blog/categories/index.html</loc>
     
     <lastmod>2018-02-08T23:14:09.827Z</lastmod>
     
   </url>
   
   <url>
-    <loc>http://www.dorank.me/blog/archives/index.html</loc>
+    <loc>http://www.dorank.me.cdn.dnsv1.com/blog/archives/index.html</loc>
     
     <lastmod>2018-02-08T23:13:41.631Z</lastmod>
     
   </url>
   
   <url>
-    <loc>http://www.dorank.me/blog/about/index.html</loc>
+    <loc>http://www.dorank.me.cdn.dnsv1.com/blog/about/index.html</loc>
     
     <lastmod>2018-02-08T23:13:14.171Z</lastmod>
     
   </url>
   
   <url>
-    <loc>http://www.dorank.me/blog/2018/02/08/hello-world.html</loc>
+    <loc>http://www.dorank.me.cdn.dnsv1.com/blog/2018/02/08/hello-world.html</loc>
     
     <lastmod>2018-02-06T02:07:26.943Z</lastmod>
     
